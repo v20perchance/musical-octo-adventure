@@ -1,11 +1,11 @@
-In Markdown, you can use three backticks (\`\`\`) on each side of a code block to format it. Here's an example:
+Markdown Format Code Blocks:
 \`\`\`ruby
 def hello
 	puts "Hello, World!"
 end
 \`\`\`
 
-How to format a list of names in YAML:
+YAML List Example:
 \`\`\`yaml
 names:
     - John Doe
@@ -13,7 +13,7 @@ names:
     - Jimmy Doe
 \`\`\`
 
-How to format a nested dictionary in YAML:
+YAML Nested Dictionary Example:
 \`\`\`yaml
 data:
 name: John Doe
@@ -25,7 +25,7 @@ address:
     zip: 10001
 \`\`\`
 
-Here is an example character in YAML:
+YAML Character Example:
 \`\`\`yaml
 name: "Winnoa Willow"
 age: 22
