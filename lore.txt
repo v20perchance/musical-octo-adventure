@@ -1,4 +1,4 @@
-YAML Character Example:
+YAML Character Template:
 \`\`\`yaml
 name: "Winnoa Willow"
 age: 22
